@@ -56,12 +56,12 @@
 
 .titulo-oradores {
     text-align: center;
-    padding-top: 1.5rem;
+   /* padding-top: 1.5rem;*/
 }
 
 .container-oradores {
     margin-top: 20px;
-    padding: 1rem 10rem;
+   /* padding: 1rem 10rem;*/
 }
 
 .card:hover{
@@ -164,12 +164,7 @@ footer {
         filter: brightness(100%);
     }
 
-    .tarjeta {
-        padding-right: 8.5rem !important;
-        max-height: 50vh;
-        padding-left: 40vw !important;
-        font-size: 0.5rem;
-    }
+  
 
     .card-img-overlay {
         padding: 2rem !important;
